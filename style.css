@@ -8,3 +8,14 @@ body {
 h1 {
   color: #d1495b;
 }
+
+.languageBar{
+  display:flex;
+  justify-content: space-between;
+  padding: 1rem;
+  padding-top: 0;
+  text-align: center;
+  align-items: center;
+  border-bottom: 1px solid #000000;
+  position: relative;
+}
